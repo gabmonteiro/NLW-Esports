@@ -1,6 +1,6 @@
 /*formatações gerais*/
 body {
-    background-image: url(/assets/src/bg.jpg);
+    background-image: url(assets/src/bg.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: contain;
